@@ -265,3 +265,4 @@ alias serve='python3 -m http.server 8000'
 alias savekali='cd ~/1st-Crack-At-It && cp ~/.zshrc zshrc && git add . && git commit -m "Update Kali config" && git push && cd -'
 
 export SECLISTS=/usr/share/seclists
+export SECLISTS=/usr/share/seclists

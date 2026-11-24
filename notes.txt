@@ -1,1 +1,3 @@
 Work In Progress, just see what you think Misty because it going down.
+
+NOTE> (Now whenever you run a tool like gobuster or ffuf, you can just type $SECLISTS/Discovery/Web-Content/common.txt and it automatically expands to the full path—plus savekali backs that change right up to your GitHub repo).
